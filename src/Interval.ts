@@ -1,3 +1,3 @@
 export namespace Interval {
-    export class Interval extends Base { }
+  export class Interval extends Base {}
 }

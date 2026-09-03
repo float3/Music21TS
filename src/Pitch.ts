@@ -1,3 +1,3 @@
 export namespace Pitch {
-    export class Pitch extends Base { }
+  export class Pitch extends Base {}
 }
